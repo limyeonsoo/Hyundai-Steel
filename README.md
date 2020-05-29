@@ -6,5 +6,5 @@ url : https://bd.kma.go.kr/contest/main.do
 
 # Team Information
 + 임연수 : https://github.com/limyeonsoo
-+ 김태성 : 
++ 김태성 : https://taese0ng.github.io/portfolio/
 + 지규빈 : 
