@@ -1,0 +1,52 @@
+tree1124 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree1148 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree1224 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree1248 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree1324 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree1348 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree2124 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree2148 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree2224 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree2248 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree2324 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+tree2348 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=30, learning_rate=0.05)
+print(tree2348)
+
+4 6
+
+
+tree1124 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1148 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1224 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1248 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1324 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1348 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2124 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2148 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2224 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2248 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2324 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2348 = xgb.XGBClassifier(max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+print(tree2348)
+
+46
+
+
+tree1124 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1148 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1224 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1248 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1324 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree1348 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2124 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2148 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2224 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2248 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2324 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+tree2348 = xgb.XGBClassifier(n_estimators=3, max_delta_step=3, tree_method='hist', reg_lambda = 1, booster='gbtree', max_depth=50, learning_rate=0.05)
+print(tree2348)
+
+3 4
+
+
+
